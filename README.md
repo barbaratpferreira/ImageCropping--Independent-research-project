@@ -13,9 +13,9 @@ Make sure you have the following installed before running the script:
 5. Tesseract ORC
 
 ## Usage 
-   1. Open the script `ImageContourDetector.py` in a text editor.
+   1. Open the script `Image_cropping.py` in a text editor.
 
-2. Modify the following paths in the script:
+3. Modify the following paths in the script:
 
 - Set the path to your Tesseract executable:
   ```python
